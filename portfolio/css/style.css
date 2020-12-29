@@ -1,5 +1,6 @@
 body{
-  font-family: 'IBM Plex Mono', monospace;
+  /* font-family: 'IBM Plex Mono', monospace; */
+  font-family: 'Comfortaa', cursive;
   font-size: 15px;
 }
 
@@ -9,7 +10,8 @@ body, ul{
 }
 
 h1,h2,.skills-list{
-  font-family: 'Inknut Antiqua', serif;
+  /* font-family: 'Inknut Antiqua', serif; */
+  font-family: 'Comfortaa', cursive;
 }
 
 img{
